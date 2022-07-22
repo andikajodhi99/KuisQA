@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Chek is Appoinment is booked Succesfully</description>
+   <name>Chek</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c12f5f0a-f3a3-4ccd-abf6-5bb029221abd</testCaseGuid>
+</TestCaseEntity>
